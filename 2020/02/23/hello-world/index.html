@@ -180,6 +180,28 @@
       <br><br>
       
       
+  <div id="gitalk-container"></div>
+  <link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css">
+  <script src="https://unpkg.com/gitalk/dist/gitalk.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/blueimp-md5@2.11.1/js/md5.min.js"></script>
+  <script type="text/javascript">
+    var gitalk = new Gitalk({
+      clientID: 'a602a9b37e155efbe5ef',
+      clientSecret: 'd9ef86b59f12ff1efd6c8cb53aee1f4613770331',
+      repo: 'Harvey-W.github.io/comments',
+      owner: 'Harvey-W',
+      admin: 'Harvey-W',
+      id: md5(location.pathname),
+      language: 'zh-CN',
+      perPage: 15,
+      pagerDirection: 'last',
+      createIssueManually: 'true',
+      distractionFreeMode: 'false'
+    });
+
+    gitalk.render('gitalk-container')
+  </script>
+
 
     
   </div>
