@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Blog on Harvey&#39;s Blog</title>
+    <link>http://localhost:1313/categories/blog/</link>
+    <description>Recent content in Blog on Harvey&#39;s Blog</description>
+    <generator>Hugo -- 0.150.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 26 Sep 2025 22:25:52 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test Patterns</title>
+      <link>http://localhost:1313/posts/test-patterns/</link>
+      <pubDate>Fri, 26 Sep 2025 22:25:52 +0800</pubDate>
+      <guid>http://localhost:1313/posts/test-patterns/</guid>
+      <description>&lt;h1 id=&#34;heading-1&#34;&gt;Heading 1&lt;/h1&gt;
+&lt;h2 id=&#34;heading-2&#34;&gt;Heading 2&lt;/h2&gt;
+&lt;h3 id=&#34;heading-3&#34;&gt;Heading 3&lt;/h3&gt;
+&lt;p&gt;| quote&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;bullet point&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol&gt;
+&lt;li&gt;firtst&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h1 id=&#34;heading-1-1&#34;&gt;Heading 1&lt;/h1&gt;
+&lt;h2 id=&#34;heading-2-1&#34;&gt;Heading 2&lt;/h2&gt;
+&lt;h3 id=&#34;heading-3-1&#34;&gt;Heading 3&lt;/h3&gt;
+&lt;p&gt;| quote&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;bullet point&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol&gt;
+&lt;li&gt;firtst  # Heading 1&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;heading-2-2&#34;&gt;Heading 2&lt;/h2&gt;
+&lt;h3 id=&#34;heading-3-2&#34;&gt;Heading 3&lt;/h3&gt;
+&lt;p&gt;| quote&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;bullet point&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol&gt;
+&lt;li&gt;firtst  # Heading 1&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;heading-2-3&#34;&gt;Heading 2&lt;/h2&gt;
+&lt;h3 id=&#34;heading-3-3&#34;&gt;Heading 3&lt;/h3&gt;
+&lt;p&gt;| quote&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;bullet point&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol&gt;
+&lt;li&gt;firtst&lt;/li&gt;
+&lt;/ol&gt;</description>
+    </item>
+  </channel>
+</rss>
